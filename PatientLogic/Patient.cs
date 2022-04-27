@@ -1,8 +1,8 @@
 using System;
 
-namespace Practica2_Certificacion
+namespace PatientLogic
 {
-    public class Patients
+    public class Patient
     {
         public string Name { get; set; }
 

@@ -1,0 +1,12 @@
+D:\Visual\Practica2_Certificacion\PatientLogic\bin\Debug\net5.0\PatientLogic.deps.json
+D:\Visual\Practica2_Certificacion\PatientLogic\bin\Debug\net5.0\PatientLogic.dll
+D:\Visual\Practica2_Certificacion\PatientLogic\bin\Debug\net5.0\ref\PatientLogic.dll
+D:\Visual\Practica2_Certificacion\PatientLogic\bin\Debug\net5.0\PatientLogic.pdb
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.csproj.AssemblyReference.cache
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.AssemblyInfoInputs.cache
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.AssemblyInfo.cs
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.csproj.CoreCompileInputs.cache
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.dll
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\ref\PatientLogic.dll
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.pdb

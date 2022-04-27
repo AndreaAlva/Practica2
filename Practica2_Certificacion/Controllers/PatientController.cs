@@ -25,7 +25,17 @@ namespace Practica2_Certificacion.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreatePatient([FromHeader]string name, [FromHeader]string lastname)
+        public IActionResult CreatePatient([FromHeader]string Name, [FromHeader]string Lastname, [FromHeader]int CI)
+        {
+            return Ok();
+        }
+        [HttpPut]
+        public IActionResult updatePAatient([FromHeader]int CI)
+        {
+            return Ok();
+        }
+        [HttpDelete]
+        public IActionResult deletePatient([FromHeader]int CI)
         {
             return Ok();
         }

@@ -26,3 +26,8 @@ D:\Visual\Practica2_Certificacion\Practica2_Certificacion\obj\Debug\net5.0\Pract
 D:\Visual\Practica2_Certificacion\Practica2_Certificacion\obj\Debug\net5.0\ref\Practica2_Certificacion.dll
 D:\Visual\Practica2_Certificacion\Practica2_Certificacion\obj\Debug\net5.0\Practica2_Certificacion.pdb
 D:\Visual\Practica2_Certificacion\Practica2_Certificacion\obj\Debug\net5.0\Practica2_Certificacion.genruntimeconfig.cache
+D:\Visual\Practica2_Certificacion\Practica2_Certificacion\bin\Debug\net5.0\PatientLogic.dll
+D:\Visual\Practica2_Certificacion\Practica2_Certificacion\bin\Debug\net5.0\TypeBloodLogic.dll
+D:\Visual\Practica2_Certificacion\Practica2_Certificacion\bin\Debug\net5.0\PatientLogic.pdb
+D:\Visual\Practica2_Certificacion\Practica2_Certificacion\bin\Debug\net5.0\TypeBloodLogic.pdb
+D:\Visual\Practica2_Certificacion\Practica2_Certificacion\obj\Debug\net5.0\Practica2_Certificacion.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\bin\Debug\net5.0\TypeBloodLogic.deps.json
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\bin\Debug\net5.0\TypeBloodLogic.dll
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\bin\Debug\net5.0\ref\TypeBloodLogic.dll
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\bin\Debug\net5.0\TypeBloodLogic.pdb
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\TypeBloodLogic.csproj.AssemblyReference.cache
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\TypeBloodLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\TypeBloodLogic.AssemblyInfoInputs.cache
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\TypeBloodLogic.AssemblyInfo.cs
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\TypeBloodLogic.csproj.CoreCompileInputs.cache
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\TypeBloodLogic.dll
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\ref\TypeBloodLogic.dll
+D:\Visual\Practica2_Certificacion\TypeBloodLogic\obj\Debug\net5.0\TypeBloodLogic.pdb

@@ -72,6 +72,26 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "PatientLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PatientLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PatientLogic.dll": {}
+        }
+      },
+      "TypeBloodLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TypeBloodLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TypeBloodLogic.dll": {}
+        }
       }
     }
   },
@@ -200,14 +220,26 @@
         "swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "PatientLogic/1.0.0": {
+      "type": "project",
+      "path": "../PatientLogic/PatientLogic.csproj",
+      "msbuildProject": "../PatientLogic/PatientLogic.csproj"
+    },
+    "TypeBloodLogic/1.0.0": {
+      "type": "project",
+      "path": "../TypeBloodLogic/TypeBloodLogic.csproj",
+      "msbuildProject": "../TypeBloodLogic/TypeBloodLogic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "PatientLogic >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.3.1",
       "Swashbuckle.AspNetCore.Swagger >= 6.3.1",
       "Swashbuckle.AspNetCore.SwaggerGen >= 6.3.1",
-      "Swashbuckle.AspNetCore.SwaggerUI >= 6.3.1"
+      "Swashbuckle.AspNetCore.SwaggerUI >= 6.3.1",
+      "TypeBloodLogic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -236,7 +268,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Visual\\Practica2_Certificacion\\PatientLogic\\PatientLogic.csproj": {
+              "projectPath": "D:\\Visual\\Practica2_Certificacion\\PatientLogic\\PatientLogic.csproj"
+            },
+            "D:\\Visual\\Practica2_Certificacion\\TypeBloodLogic\\TypeBloodLogic.csproj": {
+              "projectPath": "D:\\Visual\\Practica2_Certificacion\\TypeBloodLogic\\TypeBloodLogic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,5 +1,5 @@
 using System;
-
+using TypeBloodLogic;
 namespace PatientLogic
 {
     public class Patient
@@ -10,6 +10,6 @@ namespace PatientLogic
 
         public int CI { get; set; }
 
-        public string TypeBlood { get; set; }
+        public BloodType TypeBlood { get; set; }
     }
 }

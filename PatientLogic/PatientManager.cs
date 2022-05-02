@@ -1,13 +1,20 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
+using TypeBloodLogic;
+
 namespace PatientLogic
 {
     public class PatientManager
     {
+        BloodTypeService bloodservice;
+        IConfiguration _configuration;
         private List<Patient> patient;
 
-        public PatientManager()
+        public PatientManager(IConfiguration configuration, BloodTypeService service)
         {
+            _configuration = configuration;
+            bloodservice = service;
             patient = new List<Patient>();
         }
 
@@ -15,27 +22,32 @@ namespace PatientLogic
         {
             return patient;
         }
-        public Patient createPatient(string name, string lastname,int CI, string typeBlood)
+        public Patient createPatient(string name, string lastname,int CI)
         {
-            Patient paciente = new Patient() { Name = name, LastName = lastname, CI = CI, TypeBlood = typeBlood };
+            BloodType type = bloodservice.GetBlood().Result;
+            Patient paciente = new Patient() { Name = name, LastName = lastname, CI = CI, TypeBlood = type };
             patient.Add(paciente);
             return paciente;
         }
-        public void updatePatient(string name, string lastname,int ci)
+        public Patient updatePatient(string name, string lastname,int ci)
         {
+            Patient pa = null;
             patient.ForEach(p =>
             {
                 if (p.CI == ci)
-                    p.Name = name; p.LastName = lastname;
+                    p.Name = name; p.LastName = lastname;pa = p;
             });
+            return pa;
         }
-        public void removePatient(string name, string lastname, int ci)
+        public Patient removePatient(int ci)
         {
+            Patient pa = null;
             patient.ForEach(p =>
             {
                 if (p.CI == ci)
-                    patient.Remove(p);
+                    pa = p; patient.Remove(p); 
             });
+            return pa;
         }
     }
     

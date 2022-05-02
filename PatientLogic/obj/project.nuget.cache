@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "x6gETJXxPR5+LlRB5E8dUp3bX4FGVXGri/tE57Q7HyNEC4WRA+eo7miae8SuV2k2gexPGwZVLske4KCA5e9taA==",
+  "dgSpecHash": "yFGSjMYT7C9CBwSsmGeHTNvJyvXZgW+ahESP9zMRbEQ/pgjle1T0ezapEnRuXMNqSs41AjPuXrjs+fOaOqCYqg==",
   "success": true,
   "projectFilePath": "D:\\Visual\\Practica2_Certificacion\\PatientLogic\\PatientLogic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

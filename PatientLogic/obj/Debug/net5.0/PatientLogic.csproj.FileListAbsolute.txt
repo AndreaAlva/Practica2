@@ -10,3 +10,6 @@ D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.csp
 D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.dll
 D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\ref\PatientLogic.dll
 D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.pdb
+D:\Visual\Practica2_Certificacion\PatientLogic\bin\Debug\net5.0\TypeBloodLogic.dll
+D:\Visual\Practica2_Certificacion\PatientLogic\bin\Debug\net5.0\TypeBloodLogic.pdb
+D:\Visual\Practica2_Certificacion\PatientLogic\obj\Debug\net5.0\PatientLogic.csproj.CopyComplete

@@ -9,12 +9,20 @@
     }
   },
   "profiles": {
-    "IIS Express": {
+    "QA": {
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "QA"
+      }
+    },
+    "UAT": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "UAT"
       }
     },
     "Practica2_Certificacion": {
